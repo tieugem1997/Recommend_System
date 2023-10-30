@@ -42,8 +42,5 @@ background_image(image_file)
 
 st.markdown('<h1 style="color:#CCFF00;">A recommender system for Tiki.vn 🛒</h1>', unsafe_allow_html=True)
 
-
-# Hiển thị danh sách tên thành viên
-
 st.markdown('<div style="color: #CCFF00; font-size: 23px;">TRONG, NGUYENTHANH</div>', unsafe_allow_html=True)
 
